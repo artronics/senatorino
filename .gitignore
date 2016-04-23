@@ -1,5 +1,6 @@
-# vim session files
+# vim files
 *.vimsess
+*.swp
 
 # Object files
 *.o
