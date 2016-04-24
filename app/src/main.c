@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include "../../rpi/spi.c"
 
-main(){
+int main(){
     demoSPI();
     printf("kir");
+
+    return 0;
 }

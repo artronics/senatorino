@@ -1,6 +1,8 @@
 # vim files
 *.vimsess
 *.swp
+build/*
+.release_time
 
 # Object files
 *.o

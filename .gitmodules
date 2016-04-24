@@ -1,3 +1,6 @@
 [submodule "resources/mrf24j40-driver"]
 	path = resources/mrf24j40-driver
 	url = https://github.com/artronics/mrf24j40-driver.git
+[submodule "resources/linux/linux-wpan"]
+	path = resources/linux/linux-wpan
+	url = https://github.com/linux-wpan/linux-wpan.git
