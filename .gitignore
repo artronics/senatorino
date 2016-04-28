@@ -2,6 +2,7 @@
 *.vimsess
 *.swp
 build/*
+bin/*
 .release_time
 
 # Object files
